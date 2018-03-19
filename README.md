@@ -1,3 +1,12 @@
+# Note From Zak
+
+### This is a branch of a repository from a trading algorithm that turned out to be bullshit
+### It is a Martingale strategy where the position can grow infinitely and only closes if it becomes profitable
+
+
+
+# (Original Below)
+
 The code presented here relates to the book chapter cited below. There are two implementations of the trading model algorithm:
 
 1. *code.java*:
